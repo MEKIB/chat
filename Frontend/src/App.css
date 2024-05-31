@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+.app{
+    min-height: 100vh;
+    background: rgb(146, 199, 230);
+    display: flex;
+    color: black;
+}
